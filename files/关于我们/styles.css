@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u504_div {
+#u506_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -34,7 +34,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u504 {
+#u506 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -43,95 +43,18 @@
   height:668px;
   display:flex;
 }
-#u504 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u504_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u505_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:375px;
-  height:15px;
-  background:inherit;
-  background-color:rgba(242, 242, 242, 1);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-}
-#u505 {
-  border-width:0px;
-  position:absolute;
-  left:1px;
-  top:56px;
-  width:375px;
-  height:15px;
-  display:flex;
-}
-#u505 .text {
-  position:absolute;
-  align-self:center;
-  padding:2px 2px 2px 2px;
-  box-sizing:border-box;
-  width:100%;
-}
-#u505_text {
-  border-width:0px;
-  word-wrap:break-word;
-  text-transform:none;
-  visibility:hidden;
-}
-#u506_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:64px;
-  height:18px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
-  font-size:16px;
-  text-align:center;
-}
-#u506 {
-  border-width:0px;
-  position:absolute;
-  left:158px;
-  top:24px;
-  width:64px;
-  height:18px;
-  display:flex;
-  font-size:16px;
-  text-align:center;
-}
 #u506 .text {
   position:absolute;
-  align-self:flex-start;
-  padding:0px 0px 0px 0px;
+  align-self:center;
+  padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
 #u506_text {
   border-width:0px;
-  white-space:nowrap;
+  word-wrap:break-word;
   text-transform:none;
+  visibility:hidden;
 }
 #u507_div {
   border-width:0px;
@@ -175,8 +98,8 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:32px;
-  height:16px;
+  width:64px;
+  height:18px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -184,15 +107,19 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+  font-size:16px;
+  text-align:center;
 }
 #u508 {
   border-width:0px;
   position:absolute;
-  left:172px;
-  top:123px;
-  width:32px;
-  height:16px;
+  left:158px;
+  top:24px;
+  width:64px;
+  height:18px;
   display:flex;
+  font-size:16px;
+  text-align:center;
 }
 #u508 .text {
   position:absolute;
@@ -206,21 +133,28 @@
   white-space:nowrap;
   text-transform:none;
 }
-#u509_img {
+#u509_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
-  width:109px;
-  height:109px;
+  width:375px;
+  height:15px;
+  background:inherit;
+  background-color:rgba(242, 242, 242, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
 }
 #u509 {
   border-width:0px;
   position:absolute;
-  left:134px;
-  top:156px;
-  width:109px;
-  height:109px;
+  left:1px;
+  top:56px;
+  width:375px;
+  height:15px;
   display:flex;
 }
 #u509 .text {
@@ -236,7 +170,73 @@
   text-transform:none;
   visibility:hidden;
 }
-#u510_img {
+#u510_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:32px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u510 {
+  border-width:0px;
+  position:absolute;
+  left:172px;
+  top:123px;
+  width:32px;
+  height:16px;
+  display:flex;
+}
+#u510 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u510_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u511_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:109px;
+  height:109px;
+}
+#u511 {
+  border-width:0px;
+  position:absolute;
+  left:134px;
+  top:156px;
+  width:109px;
+  height:109px;
+  display:flex;
+}
+#u511 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u511_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u512_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -244,7 +244,7 @@
   width:23px;
   height:22px;
 }
-#u510 {
+#u512 {
   border-width:0px;
   position:absolute;
   left:13px;
@@ -253,20 +253,20 @@
   height:22px;
   display:flex;
 }
-#u510 .text {
+#u512 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u510_text {
+#u512_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u511_div {
+#u513_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -282,7 +282,7 @@
   box-shadow:none;
   text-align:center;
 }
-#u511 {
+#u513 {
   border-width:0px;
   position:absolute;
   left:150px;
@@ -292,19 +292,19 @@
   display:flex;
   text-align:center;
 }
-#u511 .text {
+#u513 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u511_text {
+#u513_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u512_div {
+#u514_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -321,7 +321,7 @@
   color:#999999;
   text-align:center;
 }
-#u512 {
+#u514 {
   border-width:0px;
   position:absolute;
   left:92px;
@@ -332,14 +332,14 @@
   color:#999999;
   text-align:center;
 }
-#u512 .text {
+#u514 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u512_text {
+#u514_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
